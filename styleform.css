@@ -1,0 +1,170 @@
+* {
+	  margin: 0px;
+	  padding: 0px;
+}
+
+.chung {
+  	margin-left: 0px;
+  	margin-right: -1px;
+  	background-color: gray;
+}
+
+.logo {
+	  padding-left: 45px;
+}
+
+.login {
+  	font-weight: bold;
+  	float: right;
+  	padding-top: 48px;
+  	padding-right: 65px; 
+}
+
+.login a {
+  	font-size: 25px;
+  	color: white;
+  	text-decoration: none;
+}
+
+.menu {
+	  font-size: 20px;
+}
+
+.menu ul {
+	  display: block;
+	  background: #1F568B;
+  	list-style-type: none;
+  	text-align: center;
+}
+
+.menu li {
+	  margin: -6px 30px;
+	  color: #f1f1f1;
+  	display: inline-block;
+  	width: 120px;
+  	height: 40px;
+  	line-height: 40px;
+  	margin-left: -5px;
+}
+
+.menu a {
+	  text-decoration: none;
+  	color: #fff;
+  	display: block;
+}
+
+.menu a:hover {
+  	background: #F1F1F1;
+  	color: #333;
+
+}  
+
+.icon-container {
+    float: left;
+    position: relative;
+    cursor: pointer;
+    margin: 7px -71px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.bar {
+    display: block;
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 6px auto;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+    border-radius: 3px;
+}
+
+#option {
+	  display: inline;
+}
+
+.normal {
+    padding-top: 5px;
+}
+
+.form-group {
+	margin: 10px;
+}
+
+.form-group label:first-child {
+	width: 200px;
+	float: left;
+}
+
+.size {
+	font-size: 20px;
+	text-align: center;
+}
+
+label {
+	font-size: 20px;
+}
+
+input {
+	border-radius: 3px;
+	margin-top: 15px;
+}
+
+fieldset {
+	margin-top: 100px;
+	box-shadow: 55px 39px 90px gainsboro;
+	margin: auto;
+    width: 400px;
+    border-radius: 21px;
+}
+
+.margin-boder {
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+form {
+	width: 316px;
+	padding: 45px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#sbm {
+	margin-left: 9px;
+	border-radius: 7px;
+	width: 79px;
+	height: 32px;
+}
+
+#reset {
+	margin-left: 49px;
+	border-radius: 7px;
+	width: 79px;
+	height: 32px;
+}
+
+.gender {
+	margin: 10px;
+}
+
+.input-long {
+	width: 200px;
+	padding-left: 10px;
+}
+
+.hegth-input {
+	height: 27px;
+	width: 155px;
+}
+
+#footer{
+	padding-top: 79px;
+    font-style: italic;
+    font-size: 16px;
+    height: 28px;
+    clear: both;
+    text-align: center;
+}
